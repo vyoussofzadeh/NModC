@@ -1,9 +1,9 @@
 % Copyright (c) 2016-17
 % Written by Alok Joshi, Vahab Youssofzadeh, Vinith Vemana, and KongFatt Wong-Lin
-% Corresponding Author: Wong-Lin, Kongfatt <k.wong-lin@ulster.ac.uk>
+% Corresponding Author: KongFatt Wong-Lin <k.wong-lin@ulster.ac.uk>
 % Last modified: 15-Dec-2016 
 %%  
-% “NModeC” is a MATLAB GUI for analyzing the time evolution of proposed 
+% NModeC” is a MATLAB GUI for analyzing the time evolution of proposed 
 % hybrid model where three interacting brain regions LHA, LC and DRN are 
 % modulated by orexin, norepinephrine and serotonin (5-HT) neurochemicals,
 % respectively. The general idea is that a typical post synaptic neuron is
@@ -34,10 +34,14 @@
 % responsibility for the completeness, accuracy, or usefulness of the 
 % software. Moreover, authors are also not responsible for any loss or
 % damage incurred due to the generated results or information. Also, 
-% the authors are not obliged to provide any further support, corrections
+% the authors would not provide further support for the code, corrections
 % or upgrades of the current version of the software. However, if the
 % users adapt the similar methodologies in their research they should
-% site our work. 
+% cite our work.
+
+% Joshi, A., Youssofzadeh, V., Vemana, V., McGinnity, T.M., Prasad, G., 
+% Wong-Lin, K. An Integrated Multiscale Modelling Framework for Neural 
+% Circuits with Multiple Neuromodulators. J. R. Soc. Interface.
 %%
 function NModC(action)
 
