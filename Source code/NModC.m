@@ -1,6 +1,6 @@
 % Copyright (c) 2016-17
 % Written by Alok Joshi, Vahab Youssofzadeh, Vinith Vemana, and KongFatt Wong-Lin
-% Corresponding Author: Wong-Lin, Kongfatt <k.wong-lin@ulster.ac.uk>
+% Corresponding Author: ongFatt Wong-Lin <k.wong-lin@ulster.ac.uk>
 % Last modified: 15-Dec-2016 
 %%  
 % “NModeC” is a MATLAB GUI for analyzing the time evolution of proposed 
@@ -37,7 +37,7 @@
 % the authors are not obliged to provide any further support, corrections
 % or upgrades of the current version of the software. However, if the
 % users adapt the similar methodologies in their research they should
-% site our work. 
+% cite our work. 
 %%
 function NModC(action)
 
