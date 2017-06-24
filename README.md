@@ -8,10 +8,10 @@ MATLAB Compiler
 
 1. Prerequisites for Deployment 
 
-. Verify the MATLAB Runtime is installed and ensure you    
+Verify the MATLAB Runtime is installed and ensure you    
   have installed version 9.0.1 (R2016a).   
 
-. If the MATLAB Runtime is not installed, do the following:
+If the MATLAB Runtime is not installed, do the following:
   (1) enter
   
       >>mcrinstaller
@@ -38,7 +38,7 @@ NOTE: You will need administrator rights to run MCRInstaller.
 2. Files to Deploy and Package
 
 Files to package for Standalone 
-================================
+
 -NModC.exe
 -MCRInstaller.exe 
    -if end users are unable to download the MATLAB Runtime using the above  
